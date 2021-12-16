@@ -1,0 +1,5 @@
+Host git-codecommit.*.amazonaws.com
+User APKAUTEXLE6CM6GADN4M
+IdentityFile ~/.ssh/config
+
+

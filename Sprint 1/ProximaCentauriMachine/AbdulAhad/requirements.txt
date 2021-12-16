@@ -1,0 +1,3 @@
+aws-cdk.core==1.135.0
+aws-cdk.assertions==1.135.0
+Npm install –g aws-cdk
